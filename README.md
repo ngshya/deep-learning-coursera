@@ -11,12 +11,12 @@ In respect of the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/a
 
 ## Specialization Courses
 
-Course 1 - [Neural Networks and Deep Learning](1-Neural-Networks-and-Deep-Learning "Course 1")
+Course 1 - [Neural Networks and Deep Learning](1-Neural-Networks-and-Deep-Learning "Course 1. Neural Networks and Deep Learning")
 
-Course 2 - Improving Deep Neural Networks 
+Course 2 - [Improving Deep Neural Networks](2-Improving-Deep-Neural-Networks "Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization")
 
-Course 3 - Structured Machine Learning Projects 
+Course 3 - [Structured Machine Learning Projects](3-Structuring-Machine-Learning-Projects "Course 3. Structured Machine Learning Projects") 
 
-Course 4 - Convolutional Neural Networks
+Course 4 - [Convolutional Neural Networks](4-Convolutional-Neural-Networks "Course 4. Convolutional Neural Networks")
 
-Course 5 - Sequence Models 
+Course 5 - [Sequence Models](5-Sequence-Models "Course 5. Sequence Models") 
