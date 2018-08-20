@@ -1,11 +1,22 @@
 # Deep Learning Specialization - Coursera
 
-Course 1 Neural Networks and Deep Learning
+**Master Deep Learning, and Break into AI**
 
-Course 2 Improving Deep Neural Networks 
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning "Deep Learning Specialization on Coursera") is a Deep Learning MOOC series available on [Coursera](https://www.coursera.org/ "Coursera - Online Courses and Credentials From Top Educators."). 
 
-Course 3 Structured Machine Learning Projects 
+[This repository](https://github.com/ngshya/deep-learning-coursera "Deep Learning - GiHub repository") contains course materials (slides, papers and some exercises) only for **reference purpose**. Most of the materials present in this repository are from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning "Deep Learning Specialization on Coursera") and therefore created by the [deeplearning.ai](https://www.deeplearning.ai/ "deeplearning.ai team") team. These materials, already freely available on the specialization official site, are just reorganized in a tidy list format inside this repository and, possibly, enriched with reference papers and/or sample scripts. 
 
-Course 4 Convolutional Neural Networks
+In respect of the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code "Coursera Honor Code"), quizzes and assignments solutions are password protected inside zip folders and not available publicly.
 
-Course 5 Sequence Models 
+
+## Specialization Courses
+
+Course 1 - Neural Networks and Deep Learning
+
+Course 2 - Improving Deep Neural Networks 
+
+Course 3 - Structured Machine Learning Projects 
+
+Course 4 - Convolutional Neural Networks
+
+Course 5 - Sequence Models 
