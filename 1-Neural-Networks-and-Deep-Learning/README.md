@@ -2,7 +2,7 @@
 
 **Deep Learning Specialization - Coursera**
 
-[Repository homepage](../ "Deep learning GitHub repository.")
+[Repository homepage](https://github.com/ngshya/deep-learning-coursera/ "Deep learning GitHub repository.")
 
 In this course, you will learn the foundations of deep learning. When you finish this class, you will:
 * Understand the major technology trends driving Deep Learning
