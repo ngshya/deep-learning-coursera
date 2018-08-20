@@ -11,7 +11,7 @@ In respect of the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/a
 
 ## Specialization Courses
 
-Course 1 - Neural Networks and Deep Learning
+Course 1 - [Neural Networks and Deep Learning](1-Neural-Networks-and-Deep-Learning "Course 1")
 
 Course 2 - Improving Deep Neural Networks 
 
