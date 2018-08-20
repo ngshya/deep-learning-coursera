@@ -3,6 +3,7 @@
 **Deep Learning Specialization - Coursera**
 
 [Repository homepage](https://github.com/ngshya/deep-learning-coursera/ "Deep learning GitHub repository.")
+
 [Course homepage](https://www.coursera.org/learn/machine-learning-projects "Structuring Machine Learning Projects")
 
 In this course, you will: 

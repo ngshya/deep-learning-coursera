@@ -3,6 +3,7 @@
 **Deep Learning Specialization - Coursera**
 
 [Repository homepage](https://github.com/ngshya/deep-learning-coursera/ "Deep learning GitHub repository.")
+
 [Course homepage](https://www.coursera.org/learn/nlp-sequence-models "Sequence Models")
 
 In this course, you will:

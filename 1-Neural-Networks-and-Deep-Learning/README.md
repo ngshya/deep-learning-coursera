@@ -3,6 +3,7 @@
 **Deep Learning Specialization - Coursera**
 
 [Repository homepage](https://github.com/ngshya/deep-learning-coursera/ "Deep learning GitHub repository.")
+
 [Course homepage](https://www.coursera.org/learn/neural-networks-deep-learning "Neural Networks and Deep Learning")
 
 In this course, you will learn the foundations of deep learning. When you finish this class, you will:

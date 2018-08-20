@@ -3,6 +3,7 @@
 **Deep Learning Specialization - Coursera**
 
 [Repository homepage](https://github.com/ngshya/deep-learning-coursera/ "Deep learning GitHub repository.")
+
 [Course homepage](https://www.coursera.org/learn/deep-neural-network "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization")
 
 In this course, you will: 
