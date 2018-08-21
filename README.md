@@ -20,3 +20,12 @@ Course 3 - [Structured Machine Learning Projects](3-Structuring-Machine-Learning
 Course 4 - [Convolutional Neural Networks](4-Convolutional-Neural-Networks "Course 4. Convolutional Neural Networks")
 
 Course 5 - [Sequence Models](5-Sequence-Models "Course 5. Sequence Models") 
+
+
+## Useful Links
+
+* Deep Learning Specialization on [Coursera](https://www.coursera.org/specializations/deep-learning "Deep Learning Specialization on Coursera") 
+* [deeplearning.ai](https://www.deeplearning.ai/ "deeplearning.ai")
+* Courses videos on [YouTube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists "Deep Learning on YouTube")
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/ "Stanford CNN course")
+
